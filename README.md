@@ -2,20 +2,21 @@
 Anagram-Script
 
 "Complexity of the solution"
+
 The complexity of the algorithm is O(n) where n is equal to the dictionary length;
 
 I find that the complexity O(n) is acceptable in this case, since we need to check every word in our dictionary with the word that is given.
 
 Instruction
 
-1/ First download the repository 
+1/ The package i have used is nodejs. If you haven't installed nodejs, you need to download and install nodejs 
 
-2/ Open the comand line and change the path to the folder you have downloaded
+2/ Download the repository 
 
-3/ The 3rd party package i have used is nodejs. you need to download nodejs 
+3/ Open the comand line and change the path to the folder you have downloaded
 
-4/ if your dictionary has a different path then you need to change it but i have also pushed the dictionary in the folder
+4/ The dictionary is already attached in the folder but if your dictionary has a different path, then you need to change the path in index.js 
 
-5/ type in node index.js 
+5/ Type in node index.js 
 
-6/ you will asked for the word you want. you will get all the anagram from the dictionary 
+6/ You will be asked for the word you want. You will get all the anagram from the dictionary .
