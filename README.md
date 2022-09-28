@@ -10,9 +10,9 @@ Instruction
 
 1/ First download the repository 
 
-2/ open the comand line and change the path to the folder you have downloaded
+2/ Open the comand line and change the path to the folder you have downloaded
 
-3/ the 3rd party package i have used is nodejs. you need to download nodejs 
+3/ The 3rd party package i have used is nodejs. you need to download nodejs 
 
 4/ if your dictionary has a different path then you need to change it but i have also pushed the dictionary in the folder
 
