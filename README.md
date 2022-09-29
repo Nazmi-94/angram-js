@@ -13,10 +13,10 @@ Instruction
 
 2/ Download the repository 
 
-3/ Open the comand line and change the path to the folder you have downloaded
+3/ The dictionary is already attached in the folder but if your dictionary has a different path, then you need to change the path in index.js
 
-4/ The dictionary is already attached in the folder but if your dictionary has a different path, then you need to change the path in index.js 
+4/ Open the comand line and change the direction to the folder you have downloaded
 
-5/ Type in node index.js 
+5/ Type in the command-line: node index.js 
 
 6/ You will be asked for the word you want check. You will get all the anagram from the dictionary.
