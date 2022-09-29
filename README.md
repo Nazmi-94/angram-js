@@ -19,4 +19,4 @@ Instruction
 
 5/ Type in the command-line: node index.js 
 
-6/ You will be asked for the word you want check. You will get all the anagram from the dictionary.
+6/ You will be asked for the word you want to check. You will get all the anagram from the dictionary.
